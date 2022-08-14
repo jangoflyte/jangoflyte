@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on Software Development Bootcamp
+- 🌱 I’m currently learning HTML/CSS, Javascript, React.js
+
+## 📫 How to reach me:
+https://www.linkedin.com/in/miguel-castro95/
