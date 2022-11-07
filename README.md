@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## What I'm doing:
 - 🔭 I’m currently working on Software Development Bootcamp
 - 🌱 I’m currently learning HTML/CSS, Javascript, React.js
 
-## 📫 How to reach me:
+## Profile:
 https://www.linkedin.com/in/miguel-castro95/
+
+## Projects:
+- https://z-prefix-frontend-castro.herokuapp.com/
+- https://z-prefix-backend-castro.herokuapp.com/
