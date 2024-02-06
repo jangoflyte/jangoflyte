@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 ## Profile:
 - https://www.linkedin.com/in/miguel-castro95/
 
-## Projects:
-- https://z-prefix-frontend-castro.herokuapp.com/
-- https://z-prefix-backend-castro.herokuapp.com/
+<!--## Projects:-->
+
